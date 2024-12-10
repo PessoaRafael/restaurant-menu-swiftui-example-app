@@ -97,3 +97,14 @@ As restrições definem os limites dentro dos quais o sistema deve operar.
 ## **9. Conclusão**
 
 Este documento de visão detalha os requisitos e objetivos do *Restaurant Menu SwiftUI Example App*, servindo como guia para o desenvolvimento do protótipo. Com um foco educacional e exemplos práticos, o aplicativo visa demonstrar a capacidade do SwiftUI em criar interfaces modernas, eficientes e de alta usabilidade.
+
+## **10. Correlação com ISO/IEC 25010**
+
+| **Atributo da ISO/IEC 25010**      | **Descrição**                                                                                      | **Requisitos Relacionados**                                                                                  |
+|------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Funcionalidade (Adequação Funcional)** | Capacidade de o sistema fornecer as funções que atendam às necessidades do usuário.               | **RF01**, **RF02**, **RF03**, **RF04**, **RF05**, **RF06**, **RF07**, **RF08**, **RF09**, **RF10**.         |
+| **Desempenho e Eficiência**        | Capacidade do sistema de executar suas funções dentro de limites de tempo e recursos apropriados.  | **RNF02**, **RNF06**, **RNF07**, **RNF10**.                                                                 |
+| **Usabilidade**                    | Facilidade com que o usuário pode aprender e operar o sistema.                                     | **RNF01**, **RNF05**, **RNF11**.                                                                            |
+| **Confiabilidade**                 | Capacidade do sistema de manter o desempenho esperado em condições normais de operação.           | **RNF08**, **RNF09**, **RNF12**.                                                                            |
+| **Manutenibilidade**               | Facilidade de modificar o sistema para corrigir defeitos ou melhorar funcionalidades.              | **RNF04**.                                                                                                  |
+| **Portabilidade**                  | Capacidade do sistema de ser transferido para outros ambientes de execução.                       | **RNF03**, **RNF05**.   
