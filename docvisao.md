@@ -4,7 +4,7 @@
 
 ## **1. Introdução**
 
-O *Restaurant Menu SwiftUI Example App* é um protótipo educacional que ilustra o desenvolvimento de um menu de restaurante utilizando SwiftUI. O objetivo é fornecer uma aplicação funcional e bem documentada que demonstre a criação de interfaces declarativas, organização de conteúdo por categorias e usabilidade. Este documento detalha os requisitos funcionais, não funcionais e as restrições do projeto, garantindo um desenvolvimento claro e direcionado.
+O *Restaurant Menu SwiftUI Example App* é um protótipo educacional que ilustra o desenvolvimento de um menu de restaurante utilizando SwiftUI. O objetivo é fornecer uma aplicação funcional e bem documentada que demonstre a criação de interfaces declarativas, organização de conteúdo por categorias e usabilidade. Este documento detalha os requisitos funcionais, não funcionais e as restrições do projeto, garantindo um desenvolvimento claro e direcionado. O sistema de menu digital do McDonald's foi utilizado como referência para a definição dos requisitos do projeto. Essa escolha foi baseada na sua interface intuitiva, experiência otimizada para usuários em restaurantes e organização eficiente dos itens do cardápio. Elementos como a separação dos produtos por categorias, a exibição de imagens de alta qualidade e a usabilidade responsiva foram considerados no escopo do sistema.
 
 ---
 
