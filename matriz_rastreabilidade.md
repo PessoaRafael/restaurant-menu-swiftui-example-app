@@ -2,9 +2,6 @@
 
 Esta matriz associa as fontes de elicitação utilizadas para levantar os requisitos do sistema ao respectivo requisito identificado.  
 
-## **Link para o documento no GitHub**  
-[Documento de Visão - Restaurant Menu SwiftUI Example App](https://github.com/seu-repositorio/documento-de-visao.md)  
-
 ## **Tabela de Rastreabilidade**  
 
 ### **Requisitos Funcionais (RF)**  
