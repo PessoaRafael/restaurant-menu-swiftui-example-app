@@ -6,8 +6,8 @@ Os requisitos funcionais especificam as funcionalidades que o sistema deve ofere
 |------|-----------|--------|
 | **RF01** | Permitir a visualização de itens do menu organizados em categorias. | Implementado |
 | **RF02** | Exibir detalhes de cada item, incluindo nome, descrição, preço e imagem. | Implementado |
-| **RF03** | Navegação fluida e responsiva entre as categorias do menu. | Em Construção |
-| **RF04** | Permitir busca por itens do menu por nome ou categoria. | Em Construção |
+| **RF03** | Navegação fluida e responsiva entre as categorias do menu. | Implementado |
+| **RF04** | Permitir busca por itens do menu por nome ou categoria. | Implementado |
 | **RF05** | Adicionar um indicador visual para destacar os itens "mais populares". | Validado |
 | **RF06** | Permitir o acesso ao menu de forma off-line, utilizando dados pré-carregados. | Em Mudança |
 | **RF07** | Exibir imagens dos pratos em alta resolução, otimizadas para diferentes tamanhos de tela. | Implementado |
@@ -36,4 +36,3 @@ Os requisitos não funcionais determinam as características de qualidade do sis
 | **RNF11** | Os testes de usabilidade devem garantir que 90% dos usuários consigam realizar as principais interações (ex.: navegação entre categorias) em menos de 10 segundos. | Documentado |
 | **RNF12** | O aplicativo deve ser responsivo em diferentes tamanhos de tela, com elementos ajustados automaticamente. | Em Construção |
 
-[🔗 Link para o documento no GitHub](#)  
