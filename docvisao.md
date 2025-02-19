@@ -107,4 +107,16 @@ Este documento de visão detalha os requisitos e objetivos do *Restaurant Menu S
 | **Usabilidade**                    | Facilidade com que o usuário pode aprender e operar o sistema.                                     | **RNF01**, **RNF05**, **RNF11**.                                                                            |
 | **Confiabilidade**                 | Capacidade do sistema de manter o desempenho esperado em condições normais de operação.           | **RNF08**, **RNF09**, **RNF12**.                                                                            |
 | **Manutenibilidade**               | Facilidade de modificar o sistema para corrigir defeitos ou melhorar funcionalidades.              | **RNF04**.                                                                                                  |
-| **Portabilidade**                  | Capacidade do sistema de ser transferido para outros ambientes de execução.                       | **RNF03**, **RNF05**.   
+| **Portabilidade**                  | Capacidade do sistema de ser transferido para outros ambientes de execução.                       | **RNF03**, **RNF05**.  
+
+---
+
+## **11. Versões do Documento**
+
+| **Versão** | **Data**   | **Descrição**                                                                 |
+|------------|------------|-------------------------------------------------------------------------------|
+| **v1.0**   | 2025-01-01 | Documento inicial.                                                           |
+| **v1.1**   | 2025-01-10 | Atualização de requisitos funcionais e não funcionais.                        |
+| **v1.2**   | 2025-01-15 | Inclusão de correlação com ISO/IEC 25010 e melhorias na organização.         |
+| **v1.3**   | 2025-02-01 | Correção de detalhes nas restrições e novos requisitos não funcionais.       |
+| **v1.4**   | 2025-02-19 | Revisão final e ajustes nas versões anteriores.                              |
